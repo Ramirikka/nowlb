@@ -1,4 +1,4 @@
-# NOWLB - Launch a Physical Brand in 30 Days
+# NOWLB
 
 A complete standalone HTML website for NOWLB, Lebanon's first B2B marketplace connecting Lebanese manufacturers with global brands. This is a fully functional static site that can be opened directly in a browser without any build process or server requirements.
 
