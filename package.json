@@ -1,0 +1,24 @@
+{
+  "name": "nowlb",
+  "version": "1.0.0",
+  "description": "NOWLB - Launch a Physical Brand in 30 Days. Lebanon's first B2B marketplace connecting Lebanese manufacturers with global brands.",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server -p 8000 -o",
+    "dev": "npx http-server -p 8000 -o"
+  },
+  "keywords": [
+    "b2b",
+    "marketplace",
+    "lebanon",
+    "manufacturing",
+    "static-site"
+  ],
+  "author": "NOWLB",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ramirikka/nowlb.git"
+  }
+}
+
